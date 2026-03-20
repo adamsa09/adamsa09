@@ -56,7 +56,7 @@ A fully autonomous system that neutralizes acidic bodies of water.
 - Scalable, minimal human intervention
 - Clean data dashboard for monitoring
 - 🥈 **Won second place at Odyssée de l'Objet**
-- **Finalist in the Hydro-Québec science fair (in progress)**
+- **Finalist in the Hydro-Québec science fair (ongoing)**
 
 ### Trading Simulator
 A web-based stock trading simulator with real-time prices.
@@ -79,7 +79,7 @@ Five-star rated developer building Discord bots for online communities using **N
 ## Achievements & Activities
 
 - **2nd place** — Odyssée de l'Objet provincial engineering competition (Alkalac)
-- **Finalist** — Hydro-Québec science fair
+- **Finalist** — Hydro-Québec science fair (ongoing)
 - **Co-captain of programming** — School robotics team; won 2nd place in 9th grade against secondary & CEGEP schools
 - **Parliamentary Simulation** — Represented my school at a 2-day Quebec parliamentary simulation as an MP
 
