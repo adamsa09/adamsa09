@@ -81,7 +81,6 @@ Five-star rated developer building Discord bots for online communities using **N
 - **2nd place** — Odyssée de l'Objet provincial engineering competition (Alkalac)
 - **Finalist** — Hydro-Québec science fair (ongoing)
 - **Co-captain of programming** — School robotics team; won 2nd place in 9th grade against secondary & CEGEP schools
-- **Parliamentary Simulation** — Represented my school at a 2-day Quebec parliamentary simulation as an MP
 
 ---
 
