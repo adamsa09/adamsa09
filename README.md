@@ -55,7 +55,7 @@ A solar-powered weather station that autonomously orients itself toward the sun.
 A fully autonomous system that neutralizes acidic bodies of water.
 - Scalable, minimal human intervention
 - Clean data dashboard for monitoring
-- 🥈 **Won second place at Odyssée de l'Objet**
+- **Won second place at Odyssée de l'Objet**
 - **Finalist in the Hydro-Québec science fair (ongoing)**
 
 ### Trading Simulator
