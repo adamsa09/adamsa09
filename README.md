@@ -60,7 +60,7 @@ A fully autonomous system that neutralizes acidic bodies of water.
 
 ### Trading Simulator
 A web-based stock trading simulator with real-time prices.
-- Built with **Django**
+- CRUD API built with **Django**
 - Integrated **Yahoo Finance API** for live market data
 - Currently building frontend using Next.JS
 
