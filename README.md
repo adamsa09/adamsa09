@@ -51,7 +51,7 @@ A solar-powered weather station that autonomously orients itself toward the sun.
 - **C++** on an ESP32
 - Designed in CAD, 3D printed housing
 
-### Alkalac — *2nd Place, Provincial Engineering Competition* & **
+### Alkalac — *2nd Place, Provincial Engineering Competition & finalist for Hydro-Québec science fair*
 A fully autonomous system that neutralizes acidic bodies of water.
 - Scalable, minimal human intervention
 - Clean data dashboard for monitoring
