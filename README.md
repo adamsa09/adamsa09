@@ -1,6 +1,6 @@
 # Adam Sarhan
 
-📍 Montreal, QC &nbsp;|&nbsp; 📧 adamsar09@outlook.com &nbsp;|&nbsp;
+📍 Montreal, QC &nbsp;|&nbsp; 📧 adam_sar09@outlook.com &nbsp;|&nbsp;
 
 ---
 
