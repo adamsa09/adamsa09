@@ -87,5 +87,7 @@ Five-star rated developer building Discord bots for online communities using **N
 
 **Collège Sainte-Anne de Lachine** — STEM Program `2021 – 2026`  
 Montréal, QC
+**John Abbott College** – Pure & Applied Sciences `2026-2028`  
+Montréal, QC
 
 ---
